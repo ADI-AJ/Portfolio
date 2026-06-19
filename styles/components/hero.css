@@ -28,4 +28,5 @@
 .hero__btn{
     text-transform: capitalize;
     font-size: var(--size-sm);
+    margin-top: 0.5rem;
 }
